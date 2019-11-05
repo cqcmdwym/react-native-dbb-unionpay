@@ -1,0 +1,42 @@
+{
+  "name": "react-native-dbb-unionpay",
+  "version": "1.0.0",
+  "description": "react-native unionpay plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "hanhuizhu",
+    "email": "hanhuizhuxyl@gmail.com"
+  },
+  "files": [
+    "ios",
+    "android",
+    "index.js"
+  ],
+  "keywords": [
+    "unionpay",
+    "react-native-unionpay"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.35"
+  },
+  "homepage": "https://github.com/ThreesomeWiki/react-native-dbb-unionpay",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThreesomeWiki/react-native-dbb-unionpay.git"
+  },
+  "license": "MIT",
+  "rnpm": {
+    "android": {},
+    "ios": {
+      "sharedLibraries": [
+        "CFNetwork.framework",
+        "SystemConfiguration.framework",
+        "libz"
+      ]
+    }
+  }
+}
