@@ -22,7 +22,7 @@
 
             <activity
                 android:name="com.unionpay.UPPayWapActivity"
-            android:configChanges="orientation|keyboardHidden"
+            android:configChanges="orientation|keyboardHidden|fontScale"
                 android:screenOrientation="portrait"
                 android:windowSoftInputMode="adjustResize"/>
     </application>
