@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-    "name": "hanhuizhu",
-    "email": "hanhuizhuxyl@gmail.com"
+    "name": "cqcmdwym",
+    "email": "cqcmdwym@126.com"
   },
   "files": [
     "ios",
@@ -23,10 +23,10 @@
   "peerDependencies": {
     "react-native": ">=0.35"
   },
-  "homepage": "https://github.com/ThreesomeWiki/react-native-dbb-unionpay",
+  "homepage": "https://github.com/cqcmdwym/react-native-dbb-unionpay",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThreesomeWiki/react-native-dbb-unionpay.git"
+    "url": "git+https://github.com/cqcmdwym/react-native-dbb-unionpay.git"
   },
   "license": "MIT",
   "rnpm": {
