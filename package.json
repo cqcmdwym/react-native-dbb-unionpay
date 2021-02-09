@@ -19,7 +19,9 @@
     "unionpay",
     "react-native-unionpay"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "react-native-dbb-unionpay": "git+https://github.com/cqcmdwym/react-native-dbb-unionpay.git#master"
+  },
   "peerDependencies": {
     "react-native": ">=0.35"
   },
