@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
     s.requires_arc = true
     s.frameworks   = 'CFNetwork','SystemConfiguration'
     s.libraries    = 'z'
-    s.vendored_libraries = "ios/RCTUnionpay/paymentcontrol/libs/*.a"
+    s.vendored_libraries = "ios/RCTUnionpay/paymentcontrol/*.a"
   
     s.dependency "React"
   
