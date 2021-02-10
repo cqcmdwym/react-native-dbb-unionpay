@@ -13,7 +13,8 @@
   "files": [
     "ios",
     "android",
-    "index.js"
+    "index.js",
+    "RCTUnionpay.podspec"
   ],
   "keywords": [
     "unionpay",
